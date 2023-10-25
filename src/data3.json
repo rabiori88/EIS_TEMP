@@ -1,0 +1,35 @@
+[
+    {
+      "task": "Write Integration Tests",
+      "status": "status_ON_DECK",
+      "due": "2023/10/15",
+      "notes": "This is a note",
+      "money": 100,
+      "link": "mnacf12"
+    },
+    {
+      "task": "Write Integration Tests",
+      "status": "status_IN_PROGRESS",
+      "due": null,
+      "notes": "Use Jest",
+      "money": 200,
+      "link": "asdf"
+    },
+    {
+      "task": "Add Instagram Integration",
+      "status": "status_DEPLOYED",
+      "due": null,
+      "notes": "",
+      "money": 400,
+      "link": "dfsdg"
+    },
+    {
+      "task": "Cleanup Database",
+      "status": null,
+      "due": "2023/02/15",
+      "notes": "Remove old data",
+      "money": 500,
+      "link": "xcbdsf"
+    }
+    
+  ]
